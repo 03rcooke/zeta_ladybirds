@@ -1,0 +1,20 @@
+---
+title: "Zeta ladybirds preprocessing"
+author: Rob Cooke
+date: 16/05/2023
+output: html_notebook
+---
+
+## Set-up ##
+
+Here we load the necessary packages
+
+```{r}
+
+# load necessary packages
+library(dplyr)
+
+# all other packages are called directly
+# other packages needed:
+
+```
